@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">my name is Jonathan and I'm a programmer, from Bengaluru, India</p>
+<p align="left">my name is Jonathan and I'm a programmer from Bengaluru, India</p>
 
 ###
 
