@@ -1,8 +1,4 @@
-<h1 align="left">hello there 👋</h1>
-
-###
-
-<p align="left">my name is Jonathan and I'm a programmer from Bengaluru, India</p>
+<p align="left">my name is Jonathan and from Bengaluru, India</p>
 
 ###
 
