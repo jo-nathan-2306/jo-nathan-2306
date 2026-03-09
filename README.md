@@ -9,3 +9,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=jo-nathan-2306&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=jo-nathan-2306&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jo-nathan-2306&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## contact me here:
+[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/jonathan2) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jonxathn) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jonathangiboy@gmail.com) [![Leetcode]()](https://leetcode.com/u/jonathangiboy/) 
